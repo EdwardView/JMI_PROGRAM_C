@@ -1,0 +1,8 @@
+------------Employee PAYSLIP----------
+   	EMPLOYEE DETAIL
+BASIC SALARY :   	120
+MEDICAL ALLOWANCE : 	53015
+PF AMOUNT :  		50
+PROFESSIONAL TAX :   	10
+Gross total :		140
+NET PAY : 		53062.
